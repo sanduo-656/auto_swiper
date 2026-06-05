@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">随机滑屏</string>
+    <string name="accessibility_service_description">按你在应用内设置的随机间隔执行上滑或下滑手势。</string>
+</resources>
