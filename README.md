@@ -7,6 +7,12 @@ Auto Swiper 是一个 Flutter Android 自动滑屏工具。它通过 Android
 
 ![Auto Swiper 控制台概览](docs/images/overview.svg)
 
+### 当前界面设计稿
+
+![Auto Swiper 移动端界面](recovered-assets/from-codex-logs/pencil-nodes/exports/layout_146.png)
+
+![Auto Swiper Pad 界面](recovered-assets/from-codex-logs/pencil-nodes/exports/layout_Pad_285.png)
+
 ## 功能
 
 - 随机上滑或下滑。
