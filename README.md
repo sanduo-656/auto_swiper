@@ -5,6 +5,8 @@ Auto Swiper 是一个 Flutter Android 自动滑屏工具。它通过 Android
 
 > 请负责任地使用本项目。不要用它刷量、作弊、绕过第三方平台规则，或执行任何违反法律法规、平台条款和他人权益的行为。
 
+![Auto Swiper 控制台概览](docs/images/overview.svg)
+
 ## 功能
 
 - 随机上滑或下滑。
@@ -65,6 +67,8 @@ flutter build apk --release --split-per-abi
    - “指定 App”：开始后自动打开你选择的目标应用。
 7. 点击“开始随机动作”。
 8. 运行中可通过屏幕上的小窗返回主界面或停止动作。
+
+![Auto Swiper 使用流程](docs/images/workflow.svg)
 
 ## 常见问题
 

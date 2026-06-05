@@ -1,0 +1,45 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="360" rx="28" fill="#111827"/>
+  <text x="70" y="76" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="800">How it works</text>
+  <text x="70" y="112" fill="#A7B1C2" font-family="Segoe UI, Arial, sans-serif" font-size="18">Install, authorize, configure, then control the run from a tiny overlay.</text>
+
+  <g transform="translate(70 162)">
+    <rect width="210" height="120" rx="22" fill="#FFFFFF"/>
+    <circle cx="48" cy="48" r="22" fill="#3157B7"/>
+    <text x="42" y="56" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="800">1</text>
+    <text x="82" y="50" fill="#111827" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="800">Install APK</text>
+    <text x="28" y="88" fill="#667085" font-family="Segoe UI, Arial, sans-serif" font-size="16">download from Release</text>
+  </g>
+
+  <path d="M300 222H375" stroke="#536174" stroke-width="4" stroke-linecap="round"/>
+  <path d="M363 210L380 222L363 234" stroke="#536174" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <g transform="translate(400 162)">
+    <rect width="230" height="120" rx="22" fill="#FFFFFF"/>
+    <circle cx="48" cy="48" r="22" fill="#2F6B55"/>
+    <text x="42" y="56" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="800">2</text>
+    <text x="82" y="50" fill="#111827" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="800">Enable service</text>
+    <text x="28" y="88" fill="#667085" font-family="Segoe UI, Arial, sans-serif" font-size="16">AccessibilityService</text>
+  </g>
+
+  <path d="M650 222H725" stroke="#536174" stroke-width="4" stroke-linecap="round"/>
+  <path d="M713 210L730 222L713 234" stroke="#536174" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <g transform="translate(750 162)">
+    <rect width="220" height="120" rx="22" fill="#FFFFFF"/>
+    <circle cx="48" cy="48" r="22" fill="#A54D2A"/>
+    <text x="42" y="56" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="800">3</text>
+    <text x="82" y="50" fill="#111827" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="800">Configure</text>
+    <text x="28" y="88" fill="#667085" font-family="Segoe UI, Arial, sans-serif" font-size="16">swipe, tap, interval</text>
+  </g>
+
+  <path d="M990 222H1065" stroke="#536174" stroke-width="4" stroke-linecap="round"/>
+  <path d="M1053 210L1070 222L1053 234" stroke="#536174" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <g transform="translate(1090 162)">
+    <rect width="140" height="120" rx="22" fill="#FFFFFF"/>
+    <circle cx="48" cy="48" r="22" fill="#111827"/>
+    <text x="42" y="56" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="800">4</text>
+    <text x="28" y="88" fill="#111827" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="800">Run / Stop</text>
+  </g>
+</svg>
